@@ -48,24 +48,15 @@ This project focuses on cleaning and preparing real-world housing data using SQL
 
 ---
 
+## 📁 Files in this Repo
+
+- `Nashville Housing Data - Raw.xlsx`: Raw data used for cleaning
+- `Nashville Housing Data - Output.xlsx`: Dataset after cleaning
+- `SQLQuery - Data Cleaning.sql`: SQL script used to clean the data
+
+---
 
 ## 🙋‍♀️ About Me
 
 Hi, I'm **Ciui Lidia Bianca**, a data enthusiast passionate about turning raw data into actionable insights using tools like SQL, Power BI, Excel, and Tableau.  
 Feel free to [connect with me on LinkedIn]( https://www.linkedin.com](https://www.linkedin.com/in/ciui-lidia-4675b0245/ ) or check out more on my [portfolio website](https://your-portfolio-link.com).
-
----
-
-## 📁 Folder Structure
-```bash
-data-cleaning-sql/
-│
-├── sql/
-│   └── data_cleaning_script.sql
-│
-├── outputs/
-│   └── cleaned_sample_preview.xlsx
-│
-└── README.md
-
----
